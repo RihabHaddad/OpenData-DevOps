@@ -1,0 +1,2354 @@
+{
+  "total_count": 187,
+  "results": [
+    {
+      "nom_ev": "catherine labouré",
+      "adresse": "29 rue de Babylone",
+      "nom_gerant": "Association Val de Seine - Conseil de ParisN Nature -",
+      "domaine": null,
+      "proprietaire_terrain": null,
+      "mail_1": "cpnvaldeseine@free.fr",
+      "internet_1": "http://www.cpn-valdeseine.asso.fr/",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.320189454812865,
+            48.85156475843292
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.320189454812865,
+        "lat": 48.85156475843292
+      },
+      "arrondissement": "Paris 7e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin Bel-Air",
+      "adresse": "Square Charles Péguy 21 rue Rottembourg",
+      "nom_gerant": "Graine de partage",
+      "domaine": "Hors Ville de Paris",
+      "proprietaire_terrain": "DEVE + RFF",
+      "mail_1": "grainedp@yahoo.fr",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.406549295245265,
+            48.83849258921216
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.406549295245265,
+        "lat": 48.83849258921216
+      },
+      "arrondissement": "Paris 12e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin du 38",
+      "adresse": "38 rue des amandiers",
+      "nom_gerant": "AOSConseil d'arrondissement, centre social la 20e Chaise",
+      "domaine": "Hors Ville de Paris",
+      "proprietaire_terrain": "Paris Habitat",
+      "mail_1": "jardindu38@la20emechaise.org",
+      "internet_1": "www.la20emechaise.org",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3899292263869705,
+            48.86483642094204
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3899292263869705,
+        "lat": 48.86483642094204
+      },
+      "arrondissement": "Paris 20e Arrondissement"
+    },
+    {
+      "nom_ev": null,
+      "adresse": "295 rue de belleville",
+      "nom_gerant": null,
+      "domaine": null,
+      "proprietaire_terrain": null,
+      "mail_1": null,
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.4023417268332463,
+            48.87606586283643
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.4023417268332463,
+        "lat": 48.87606586283643
+      },
+      "arrondissement": "Paris 19e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin aux habitants",
+      "adresse": "Palais de Tokyo 2 rue de la Manutention",
+      "nom_gerant": "Jardin aux habitants",
+      "domaine": "Hors Ville de Paris",
+      "proprietaire_terrain": "Etat",
+      "mail_1": null,
+      "internet_1": "https://palaisdetokyo.com/",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.2961366819370523,
+            48.864166104489335
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.2961366819370523,
+        "lat": 48.864166104489335
+      },
+      "arrondissement": "Paris 16e Arrondissement"
+    },
+    {
+      "nom_ev": "Le Males'Herbes",
+      "adresse": "rue Rodolf Noureev",
+      "nom_gerant": "Association des Hauts de Malesherbes",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "hautsdemalesherbes@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3059263853521976,
+            48.89182737618246
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3059263853521976,
+        "lat": 48.89182737618246
+      },
+      "arrondissement": "Paris 17e Arrondissement"
+    },
+    {
+      "nom_ev": "Le Jardin de Théodore",
+      "adresse": "Square Théodore Monod 23 rue du fer à moulin",
+      "nom_gerant": "Le jardin de Théodore (s’est associé l’école Montessori)",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "jardindetheodore@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3536483959414123,
+            48.838913111000345
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3536483959414123,
+        "lat": 48.838913111000345
+      },
+      "arrondissement": "Paris 5e Arrondissement"
+    },
+    {
+      "nom_ev": "La Maison Violette",
+      "adresse": "Maison communale Violet 69 rue Violet",
+      "nom_gerant": "La Maison violette",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "jp.lamaisonviolette@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.291424656397191,
+            48.845610828659815
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.291424656397191,
+        "lat": 48.845610828659815
+      },
+      "arrondissement": "Paris 15e Arrondissement"
+    },
+    {
+      "nom_ev": "Le Pommier des Amandiers",
+      "adresse": "3 rue Elisa Borey",
+      "nom_gerant": "Le Pommier des Amandiers",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "contact@lepommierdesamandiers.fr",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": "2021-01-11",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.390402141438679,
+            48.86635333609164
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.390402141438679,
+        "lat": 48.86635333609164
+      },
+      "arrondissement": "Paris 20e Arrondissement"
+    },
+    {
+      "nom_ev": "Les haies partagées",
+      "adresse": "Jardin Casque d’Or 39b rue des Haies",
+      "nom_gerant": "Ass. du Jardin Partagé de Casque d’Or",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "haies.partagees@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.4014026104821258,
+            48.85340083418658
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.4014026104821258,
+        "lat": 48.85340083418658
+      },
+      "arrondissement": "Paris 20e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin du coin",
+      "adresse": "18 rue du Chalet",
+      "nom_gerant": "jardin du coin",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "jardinducoin10@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3734014902052643,
+            48.873828813690864
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3734014902052643,
+        "lat": 48.873828813690864
+      },
+      "arrondissement": "Paris 10e Arrondissement"
+    },
+    {
+      "nom_ev": "Le Jardin du Dimanche",
+      "adresse": "Square Paul Didier 6 rue du colonel Manhes",
+      "nom_gerant": "Le potager pot à joncs",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "potagerpotajoncs@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3210957593957797,
+            48.89553230562329
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3210957593957797,
+        "lat": 48.89553230562329
+      },
+      "arrondissement": "Paris 17e Arrondissement"
+    },
+    {
+      "nom_ev": "Couleurs et Senteurs",
+      "adresse": "7 Passage Marcel Landowski",
+      "nom_gerant": "Régie de quartier du 19°",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "info@rqparis19.org",
+      "internet_1": "https://www.rqparis19.org/",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.371221331359983,
+            48.887294937770065
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.371221331359983,
+        "lat": 48.887294937770065
+      },
+      "arrondissement": "Paris 19e Arrondissement"
+    },
+    {
+      "nom_ev": "Charmante Petite Campagne Urbaine",
+      "adresse": "36 quai de la Marne",
+      "nom_gerant": "Espace 19",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "contact@espace19.org",
+      "internet_1": "http://www.espace19.org",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3841294158747837,
+            48.89030603512159
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3841294158747837,
+        "lat": 48.89030603512159
+      },
+      "arrondissement": "Paris 19e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin Elie Faure",
+      "adresse": "Résidence RIVP Elie Faure 1 rue Elie Faure",
+      "nom_gerant": "Ville en herbes",
+      "domaine": "Hors Ville de Paris",
+      "proprietaire_terrain": "RIVP",
+      "mail_1": "villeenherbes@gmail.com",
+      "internet_1": "http://villeenherbes.over-blog.com/",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.415492703085865,
+            48.84541825181083
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.415492703085865,
+        "lat": 48.84541825181083
+      },
+      "arrondissement": "Paris 12e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin partagé choisi",
+      "adresse": "Parc de Choisy rue Georges Eastman",
+      "nom_gerant": "Association jardin partagé choisi",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "philippe.foirier@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3591159048076378,
+            48.828959782001235
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3591159048076378,
+        "lat": 48.828959782001235
+      },
+      "arrondissement": "Paris 13e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin Jean Genet",
+      "adresse": "156 rue Raymond Losserand",
+      "nom_gerant": "Jardin Jean Genet",
+      "domaine": "Hors Ville de Paris",
+      "proprietaire_terrain": "Paris Habitat",
+      "mail_1": "clergerie.cath@free.fr",
+      "internet_1": "http://jardin-jean-genet.blogspot.com/",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3113377449307855,
+            48.83058722620449
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3113377449307855,
+        "lat": 48.83058722620449
+      },
+      "arrondissement": "Paris 14e Arrondissement"
+    },
+    {
+      "nom_ev": "Le jardin Saint Blaise",
+      "adresse": "Centre Chenal Saint-Blaise 14 rue du Clos",
+      "nom_gerant": "Esperem",
+      "domaine": "Hors Ville de Paris",
+      "proprietaire_terrain": "Paris Habitat",
+      "mail_1": "valerie.navarre@esperem.org",
+      "internet_1": "https://esperem.org",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.406868721582751,
+            48.856991621657976
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.406868721582751,
+        "lat": 48.856991621657976
+      },
+      "arrondissement": "Paris 20e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin des Délices",
+      "adresse": "10 impasse Satan",
+      "nom_gerant": "Jardin des délices",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "lejardindesdelices20@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.4031486944419402,
+            48.855728547621275
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.4031486944419402,
+        "lat": 48.855728547621275
+      },
+      "arrondissement": "Paris 20e Arrondissement"
+    },
+    {
+      "nom_ev": "Potager des deux moulins",
+      "adresse": "jardin des Deux Moulins 78 avenue Edison",
+      "nom_gerant": null,
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "potagerdes2moulins@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.357659605113903,
+            48.83046646361328
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.357659605113903,
+        "lat": 48.83046646361328
+      },
+      "arrondissement": "Paris 13e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin partagé Césaria Evora",
+      "adresse": "33 A quai de la gironde",
+      "nom_gerant": "Rosa Paks (Paris)",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "contact@centrerosaparks.paris",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3802824487365055,
+            48.89806687594493
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3802824487365055,
+        "lat": 48.89806687594493
+      },
+      "arrondissement": "Paris 19e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin Partagé du Square Ozanam",
+      "adresse": "Square Ozanam - 18 rue Stanislas 75006",
+      "nom_gerant": "Jardin partagé du Square Ozanam",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "jardinpartageozanam@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3273895239598645,
+            48.843197035916624
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3273895239598645,
+        "lat": 48.843197035916624
+      },
+      "arrondissement": "Paris 6e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin Partagé des Olympiades",
+      "adresse": "Dalle des Olympiades",
+      "nom_gerant": "Association Jardin Partagé Olympiades",
+      "domaine": "Hors Ville de Paris",
+      "proprietaire_terrain": "Paris Habitat",
+      "mail_1": "jardinolympiades@gmail.com",
+      "internet_1": "https://www.facebook.com/jardinolympiades",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.364514049887955,
+            48.82585518723297
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.364514049887955,
+        "lat": 48.82585518723297
+      },
+      "arrondissement": "Paris 13e Arrondissement"
+    },
+    {
+      "nom_ev": "Les jardins de la douve",
+      "adresse": "Jardin Anna Marly 25 avenue de la porte de Vanves",
+      "nom_gerant": "Les jardins de la douve",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "bureau@lesjardinsdeladouve.org",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3043683491105096,
+            48.825077145700604
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3043683491105096,
+        "lat": 48.825077145700604
+      },
+      "arrondissement": "Paris 14e Arrondissement"
+    },
+    {
+      "nom_ev": "Le Potager du Clos",
+      "adresse": "Square du Clos Feuquières 30 rue Desnouettes",
+      "nom_gerant": "le potager du clos",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "lepotagerduclos@laposte.net",
+      "internet_1": "http://Lepotagerduclos.wordpress.com",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.290521690869009,
+            48.83609124595633
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.290521690869009,
+        "lat": 48.83609124595633
+      },
+      "arrondissement": "Paris 15e Arrondissement"
+    },
+    {
+      "nom_ev": "L’îlot Lilas",
+      "adresse": "295 rue de Belleville",
+      "nom_gerant": "L’Ilot Lilas",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "jardinlilolila@googlegroups.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.402294523084996,
+            48.8760338115303
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.402294523084996,
+        "lat": 48.8760338115303
+      },
+      "arrondissement": "Paris 19e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin des Tourelles",
+      "adresse": "18 passage des tourelles",
+      "nom_gerant": "Jardin des Tourelles",
+      "domaine": "Hors Ville de Paris",
+      "proprietaire_terrain": "Paris Habitat",
+      "mail_1": "jardin.tourelles@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.4042650789250652,
+            48.87551886209517
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.4042650789250652,
+        "lat": 48.87551886209517
+      },
+      "arrondissement": "Paris 20e Arrondissement"
+    },
+    {
+      "nom_ev": "Verger Fleury",
+      "adresse": "40 rue Le Vau",
+      "nom_gerant": "Vergers Urbains",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "vergersurbains@gmail.com",
+      "internet_1": "http://vergersurbains.org/",
+      "internet_2": "https://www.facebook.com/ProjetVergersUrbains",
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.4118111639331086,
+            48.87274218373367
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.4118111639331086,
+        "lat": 48.87274218373367
+      },
+      "arrondissement": "Paris 20e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin Partagé du Square des Missions Etrangères",
+      "adresse": "105 rue du bac",
+      "nom_gerant": "Le jardin partagé du square des Missions Etrangères",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "aygd@laposte.net",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.323800570471246,
+            48.85258616472082
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.323800570471246,
+        "lat": 48.85258616472082
+      },
+      "arrondissement": "Paris 7e Arrondissement"
+    },
+    {
+      "nom_ev": "Le jardin de la gare de Reuilly",
+      "adresse": "Maison des associations du 12e 181 avenue Daumesnil",
+      "nom_gerant": "Urbanescence",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "contact@urbanescence.org",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3925067778942504,
+            48.84048781258281
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3925067778942504,
+        "lat": 48.84048781258281
+      },
+      "arrondissement": "Paris 12e Arrondissement"
+    },
+    {
+      "nom_ev": "Georges Boudry",
+      "adresse": "Square Dunois 189 rue Chevaleret",
+      "nom_gerant": "CED 13FEDD Jeune",
+      "domaine": "Hors Ville de Paris",
+      "proprietaire_terrain": "SIEMP",
+      "mail_1": "jardinpartageboudry@gmail.com",
+      "internet_1": "https://jardinpartagegeorgesboudry.wordpress.com",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.36804579158709,
+            48.83396378353715
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.36804579158709,
+        "lat": 48.83396378353715
+      },
+      "arrondissement": "Paris 13e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin Les Mots et Merveilles",
+      "adresse": "Square Paul Nizan 9 rue de l'industrie",
+      "nom_gerant": "Les Peupliers",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "lespeupliers.association@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.357190495203628,
+            48.82254063426508
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.357190495203628,
+        "lat": 48.82254063426508
+      },
+      "arrondissement": "Paris 13e Arrondissement"
+    },
+    {
+      "nom_ev": "Bela Bartok",
+      "adresse": "26 place de Brazzaville",
+      "nom_gerant": "Ecole élémentaire 25, rue Rouelle - Centre de loisirs élémentaire Rouelle - Ecole maternelle et élémentaire Emeriau",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": null,
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.285665767845934,
+            48.85097542093542
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.285665767845934,
+        "lat": 48.85097542093542
+      },
+      "arrondissement": "Paris 15e Arrondissement"
+    },
+    {
+      "nom_ev": "jardin des p'tits voisins",
+      "adresse": "impasse des jardiniers",
+      "nom_gerant": "Les p'tits voisins du 11ème",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "lesptitsvoisins@ntymail.com",
+      "internet_1": "https://www.facebook.com/lespetitsvoisinsdu11eme",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.391078620244889,
+            48.85214501194982
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.391078620244889,
+        "lat": 48.85214501194982
+      },
+      "arrondissement": "Paris 11e Arrondissement"
+    },
+    {
+      "nom_ev": "jardin partagé de la rue Annie Girardot",
+      "adresse": "14 rue Annie Girardot",
+      "nom_gerant": "Maison 13 solidaire",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "accueil@maison13solidaire.fr",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3479299858242597,
+            48.82138721835101
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3479299858242597,
+        "lat": 48.82138721835101
+      },
+      "arrondissement": "Paris 13e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin de Falbala",
+      "adresse": "Jardin du Moulin de la Vierge 20 rue de Gergovie",
+      "nom_gerant": "le Jardin partagé de Falbala",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "jardindefalbala@gmail.com",
+      "internet_1": "http://jardindefalbala.blogspot.com/",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.314157934045679,
+            48.8339844168798
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.314157934045679,
+        "lat": 48.8339844168798
+      },
+      "arrondissement": "Paris 14e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin du square Chanoine Viollet",
+      "adresse": "Square du Chanoine-Viollet 40 rue Hippolyte Maindron",
+      "nom_gerant": "Jardins des Couleurs",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "jardinsdescouleurs@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.321098450721666,
+            48.830960250365635
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.321098450721666,
+        "lat": 48.830960250365635
+      },
+      "arrondissement": "Paris 14e Arrondissement"
+    },
+    {
+      "nom_ev": "Square de Jessaint",
+      "adresse": "36 boulevard de la Chapelle",
+      "nom_gerant": "Emmaüs Solidarité",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "jardinsinsertion@emmaus.asso.fr",
+      "internet_1": "https://www.emmaus-solidarite.org/",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3586135946812865,
+            48.88458976776485
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3586135946812865,
+        "lat": 48.88458976776485
+      },
+      "arrondissement": "Paris 18e Arrondissement"
+    },
+    {
+      "nom_ev": "Serre aux Légumes",
+      "adresse": "57 av Flandre",
+      "nom_gerant": "C P N et S.L.C.",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "cpnvaldeseine75@gmail.com",
+      "internet_1": "pn-valdeseine.asso.fr",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.372696133074561,
+            48.88777009623041
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.372696133074561,
+        "lat": 48.88777009623041
+      },
+      "arrondissement": "Paris 19e Arrondissement"
+    },
+    {
+      "nom_ev": "Hérold - intergénérationnel",
+      "adresse": "13 rue Francis Ponge",
+      "nom_gerant": "EHPAD + crèche",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": null,
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3944975377600164,
+            48.882420296778385
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3944975377600164,
+        "lat": 48.882420296778385
+      },
+      "arrondissement": "Paris 19e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin Ella Fitzgerald",
+      "adresse": "12 rue Ella Fitzgerald",
+      "nom_gerant": "Potager 21",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "potager21association@gmail.com",
+      "internet_1": "https://www.facebook.com/jardinellafitzgerald/",
+      "internet_2": "https://www.helloasso.com/associations/potager21",
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3962535474624995,
+            48.896501258602804
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3962535474624995,
+        "lat": 48.896501258602804
+      },
+      "arrondissement": "Paris 19e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin Fessart",
+      "adresse": "45 rue Fessart",
+      "nom_gerant": "Le jardin Fessart",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "jardinfessart@numericable.fr",
+      "internet_1": "http://jardin-fessart.over-blog.com/",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.384054341803436,
+            48.87671445699608
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.384054341803436,
+        "lat": 48.87671445699608
+      },
+      "arrondissement": "Paris 19e Arrondissement"
+    },
+    {
+      "nom_ev": "Le 56",
+      "adresse": "56 rue Saint Blaise",
+      "nom_gerant": "Le 56",
+      "domaine": "Hors Ville de Paris",
+      "proprietaire_terrain": "Paris Habitat",
+      "mail_1": "le56contact@gmail.com",
+      "internet_1": "https://56stblaise.wordpress.com/",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.4071345526884302,
+            48.85791712718219
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.4071345526884302,
+        "lat": 48.85791712718219
+      },
+      "arrondissement": "Paris 20e Arrondissement"
+    },
+    {
+      "nom_ev": "Le Jardin du Carrousel",
+      "adresse": "Place Gilbert Perroy",
+      "nom_gerant": "Le Jardin du Carrousel",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "jardinducarrousel@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3255166094199184,
+            48.8323625303162
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3255166094199184,
+        "lat": 48.8323625303162
+      },
+      "arrondissement": "Paris 14e Arrondissement"
+    },
+    {
+      "nom_ev": "Le Jardin d'Astrolabe",
+      "adresse": "22 rue Pierre Gourdault",
+      "nom_gerant": "Le Jardin d’Astrolabe",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "jardin-astrolabe@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.369943997999922,
+            48.83102496747717
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.369943997999922,
+        "lat": 48.83102496747717
+      },
+      "arrondissement": "Paris 13e Arrondissement"
+    },
+    {
+      "nom_ev": "jardin les moufettes",
+      "adresse": "3 passage des Patriarches",
+      "nom_gerant": "Les moufettes",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "jardinlesmouffettes@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3503522771858063,
+            48.8410895371343
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3503522771858063,
+        "lat": 48.8410895371343
+      },
+      "arrondissement": "Paris 5e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin Bashung",
+      "adresse": "16 rue de Jéssaint",
+      "nom_gerant": "La Goutte Verte",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "goutteverte@yahoo.fr",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3562272617313655,
+            48.88545117079747
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3562272617313655,
+        "lat": 48.88545117079747
+      },
+      "arrondissement": "Paris 18e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin de la Place Fréhel",
+      "adresse": "54 rue de Belleville",
+      "nom_gerant": "Slam Production",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DVD",
+      "mail_1": "slamproduction@orange.fr",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3816586824299124,
+            48.873065631366835
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3816586824299124,
+        "lat": 48.873065631366835
+      },
+      "arrondissement": "Paris 20e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin des Deux Nèthes",
+      "adresse": "Square des deux Nèthes 24 avenue de Clichy",
+      "nom_gerant": "Cultures et Potager 17/18",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "culturesetpotager@orange.fr",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": "2023-12-23",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3267854747337924,
+            48.885280533908784
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3267854747337924,
+        "lat": 48.885280533908784
+      },
+      "arrondissement": "Paris 18e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin Partagé Truillot",
+      "adresse": "82 boulevard Voltaire",
+      "nom_gerant": "Association du Jardin Partagé Truillot",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "jardinpartage.truillot@gmail.com",
+      "internet_1": "http://jardinpartagetruillot.blogspot.com/",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.374691225166572,
+            48.86084250772489
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.374691225166572,
+        "lat": 48.86084250772489
+      },
+      "arrondissement": "Paris 11e Arrondissement"
+    },
+    {
+      "nom_ev": "Pereire",
+      "adresse": "21 rue Guersant",
+      "nom_gerant": "école maternelle Bayen - ecole Montessori",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": null,
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.289582618473421,
+            48.88079971805017
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.289582618473421,
+        "lat": 48.88079971805017
+      },
+      "arrondissement": "Paris 17e Arrondissement"
+    },
+    {
+      "nom_ev": "Le Clos Garcia",
+      "adresse": "17 rue Cristino Garcia",
+      "nom_gerant": "Le Clos Garcia",
+      "domaine": "Hors Ville de Paris",
+      "proprietaire_terrain": "RIVP entretenu par la ville. Bail emphytéotique",
+      "mail_1": "closgarcia@free.fr",
+      "internet_1": "http://closgarcia.free.fr/",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.4134530277249566,
+            48.849883490779774
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.4134530277249566,
+        "lat": 48.849883490779774
+      },
+      "arrondissement": "Paris 20e Arrondissement"
+    },
+    {
+      "nom_ev": "Les ombres potagères",
+      "adresse": "20 rue de Fontarabie",
+      "nom_gerant": "Les Ombres Potagères",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "ombrespotageres@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.4011426104318043,
+            48.857510153823895
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.4011426104318043,
+        "lat": 48.857510153823895
+      },
+      "arrondissement": "Paris 20e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin du Beauregard",
+      "adresse": "13 rue eugénie cotton",
+      "nom_gerant": "Amicale des locataires Bellevue - Compans",
+      "domaine": "Hors Ville de Paris",
+      "proprietaire_terrain": "RIVP",
+      "mail_1": "amicalebellevuecompans@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3941823820033834,
+            48.87893699900892
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3941823820033834,
+        "lat": 48.87893699900892
+      },
+      "arrondissement": "Paris 19e Arrondissement"
+    },
+    {
+      "nom_ev": "Les Jardins du Ruisseau",
+      "adresse": "PC 18 Clignancourt, 108 rue du Ruisseau",
+      "nom_gerant": "Les Amis des Jardins du Ruisseau",
+      "domaine": "Hors Ville de Paris",
+      "proprietaire_terrain": "RFF loué à la Ville",
+      "mail_1": "contact@lesjardinsduruisseau.org",
+      "internet_1": "https://www.facebook.com/jardinsduruisseau",
+      "internet_2": "http://lesjardinsduruisseau.fr/",
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.342263705682592,
+            48.89701991455417
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.342263705682592,
+        "lat": 48.89701991455417
+      },
+      "arrondissement": "Paris 18e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin Luquet",
+      "adresse": "Square Alexandre Luquet Impasse Piat",
+      "nom_gerant": "Archipelia",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "info@archipelia.org",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.386712957190427,
+            48.87071198875051
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.386712957190427,
+        "lat": 48.87071198875051
+      },
+      "arrondissement": "Paris 20e Arrondissement"
+    },
+    {
+      "nom_ev": "Leroy Sème",
+      "adresse": "2 bis cité Leroy",
+      "nom_gerant": "Leroy Sème",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "leroyseme@gmail.com",
+      "internet_1": "http://leroyseme.canalblog.com/",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3929043437209323,
+            48.87083609220711
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3929043437209323,
+        "lat": 48.87083609220711
+      },
+      "arrondissement": "Paris 20e Arrondissement"
+    },
+    {
+      "nom_ev": "Le petit paradis",
+      "adresse": "5 rue Léon Schwartzenberg",
+      "nom_gerant": "Le Pari's des faubourgs",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "acceuil@lepfb.net",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3532746717129425,
+            48.87569666435601
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3532746717129425,
+        "lat": 48.87569666435601
+      },
+      "arrondissement": "Paris 10e Arrondissement"
+    },
+    {
+      "nom_ev": "jardin partagé Chapelle Charbon",
+      "adresse": "Parc Chapelle Charbon, rue du pré",
+      "nom_gerant": "Vergers Urbains",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "vergersurbains@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.362103369000309,
+            48.8974350132832
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.362103369000309,
+        "lat": 48.8974350132832
+      },
+      "arrondissement": "Paris 18e Arrondissement"
+    },
+    {
+      "nom_ev": "colbert",
+      "adresse": "159 rue de charonne",
+      "nom_gerant": "culture en herbe",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "culturesenherbes2@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3897220231673,
+            48.85609813526598
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3897220231673,
+        "lat": 48.85609813526598
+      },
+      "arrondissement": "Paris 11e Arrondissement"
+    },
+    {
+      "nom_ev": "Les jardins passagers",
+      "adresse": null,
+      "nom_gerant": "Etablissement Public du Parc et de la Grande Halle de La Villette",
+      "domaine": "Hors Ville de Paris",
+      "proprietaire_terrain": "Etat",
+      "mail_1": null,
+      "internet_1": "villette.com/votre-visite/les-jardins-passagers",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3901476567878484,
+            48.89249322970248
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3901476567878484,
+        "lat": 48.89249322970248
+      },
+      "arrondissement": "Paris 19e Arrondissement"
+    },
+    {
+      "nom_ev": "L'accueillette du 9ème",
+      "adresse": "TEP Valeyre 24 rue de Rochechouart",
+      "nom_gerant": "L'Accueillette du 9°",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DJS",
+      "mail_1": "laccueillette@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.345021513689842,
+            48.87796726577678
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.345021513689842,
+        "lat": 48.87796726577678
+      },
+      "arrondissement": "Paris 9e Arrondissement"
+    },
+    {
+      "nom_ev": "Au cœur de la roquette",
+      "adresse": "Square de la Roquette 143 rue de la Roquette",
+      "nom_gerant": "centre social et culturel solidarité roquette",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "social@solidariteroquette.fr",
+      "internet_1": "https://www.solidariteroquette.fr/",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3844858580934627,
+            48.85898642845319
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3844858580934627,
+        "lat": 48.85898642845319
+      },
+      "arrondissement": "Paris 11e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin de la Folie Titon",
+      "adresse": "28 rue Chanzy",
+      "nom_gerant": "Association de la Folie Titon",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "la-folie-titon@outlook.fr",
+      "internet_1": "https://association-folie-titon.blogspot.fr",
+      "internet_2": "https://twitter.com/AssoFolieTiton",
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.385342544561932,
+            48.852675071392014
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.385342544561932,
+        "lat": 48.852675071392014
+      },
+      "arrondissement": "Paris 11e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin faure'midable",
+      "adresse": "Résidence RIVP Elie Faure 21 rue du chaffault",
+      "nom_gerant": "Jardin Faure'midable",
+      "domaine": "Hors Ville de Paris",
+      "proprietaire_terrain": "RIVP",
+      "mail_1": "jardinfauremidable@gmail.com",
+      "internet_1": "https://www.facebook.com/jardinfauremidable/",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.415202090563017,
+            48.84529587109845
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.415202090563017,
+        "lat": 48.84529587109845
+      },
+      "arrondissement": "Paris 12e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin partagé de la Poterne des Peupliers",
+      "adresse": "Centre d’animation de La Poterne des Peupliers 1 rue Gouthière",
+      "nom_gerant": "Ligue de l'Enseignement",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DJS",
+      "mail_1": "capoternedespeupliers@ligueparis.org",
+      "internet_1": "https://aujardin.jimdofree.com/",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3512037862816473,
+            48.82070521941199
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3512037862816473,
+        "lat": 48.82070521941199
+      },
+      "arrondissement": "Paris 13e Arrondissement"
+    },
+    {
+      "nom_ev": "Le jardin de la Cité Aubry",
+      "adresse": "2 bis cité Aubry",
+      "nom_gerant": "Le jardin de la Cité Aubry",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "lejardindelacite@gmail.com",
+      "internet_1": "https://www.lejardindelacite.com",
+      "internet_2": "https://fr-fr.facebook.com/jardinciteaubry",
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.395538392352498,
+            48.85717231786922
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.395538392352498,
+        "lat": 48.85717231786922
+      },
+      "arrondissement": "Paris 20e Arrondissement"
+    },
+    {
+      "nom_ev": "Le jardin insolite",
+      "adresse": "Square Louis Lumière 30 rue Louis Lumière",
+      "nom_gerant": "Môm'Ganne / Réseau Môm'artre",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "rueganne@gmail.com",
+      "internet_1": "www.momartre.net",
+      "internet_2": null,
+      "date_fermeture": "2021-04-12",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.4116456899674352,
+            48.859198214906925
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.4116456899674352,
+        "lat": 48.859198214906925
+      },
+      "arrondissement": "Paris 20e Arrondissement"
+    },
+    {
+      "nom_ev": "Yilmaz Güney",
+      "adresse": "25, 27 rue de l'Echiquier",
+      "nom_gerant": "école élémentaire 34 rue du Faubourg Saint Denis",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": null,
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3507069035640717,
+            48.87111003164851
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3507069035640717,
+        "lat": 48.87111003164851
+      },
+      "arrondissement": "Paris 10e Arrondissement"
+    },
+    {
+      "nom_ev": "Jean Aicard",
+      "adresse": "16 avenue Jean Aicard",
+      "nom_gerant": "Conseil d'arrondissementTTP Hôpitaux Saint Maurice",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "mariondeltell@hotmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": "2024-12-01",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.380997393282343,
+            48.865575893825856
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.380997393282343,
+        "lat": 48.865575893825856
+      },
+      "arrondissement": "Paris 11e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin des Thermopyles",
+      "adresse": "6 rue des thermopyles",
+      "nom_gerant": "Association Urbanisme et Démocratie Udé !",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "udecontact@proton.me",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3192899211425235,
+            48.83226948884327
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3192899211425235,
+        "lat": 48.83226948884327
+      },
+      "arrondissement": "Paris 14e Arrondissement"
+    },
+    {
+      "nom_ev": "Le Jardin de Bonne",
+      "adresse": "5 rue Bellan",
+      "nom_gerant": "Aux cales pieds",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DLH",
+      "mail_1": "jardindebonne@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3466607395550128,
+            48.866387833225886
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3466607395550128,
+        "lat": 48.866387833225886
+      },
+      "arrondissement": "Paris 2e Arrondissement"
+    },
+    {
+      "nom_ev": "Le Jardin d'Abel",
+      "adresse": "Square René Le Gall 5 rue Emile Deslandres",
+      "nom_gerant": "Le Jardin d'Abel",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "lejardindabel@gmail.com",
+      "internet_1": "https://www.facebook.com/lejardindabel",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.350294367657589,
+            48.83475201249388
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.350294367657589,
+        "lat": 48.83475201249388
+      },
+      "arrondissement": "Paris 13e Arrondissement"
+    },
+    {
+      "nom_ev": "Oasis de Koufra",
+      "adresse": "Square Serment de Koufra rue de la Légion étrangère",
+      "nom_gerant": "L'Oasis de Koufra",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "loasisdekoufra@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.324393162825572,
+            48.82087921280804
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.324393162825572,
+        "lat": 48.82087921280804
+      },
+      "arrondissement": "Paris 14e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin de Perlimpinpin",
+      "adresse": "Parc Clichy-Batignolles - Martin Luther-King, 166 rue du Cardinet",
+      "nom_gerant": "Jardin de Perlimpinpin",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "michel_dannielou@yahoo.fr",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.316913557404839,
+            48.88976025254181
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.316913557404839,
+        "lat": 48.88976025254181
+      },
+      "arrondissement": "Paris 17e Arrondissement"
+    },
+    {
+      "nom_ev": "Le Bois Dormoy",
+      "adresse": "2 bis cité de la Chapelle",
+      "nom_gerant": "Le Bois Dormoy",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "dormoy@yahoo.fr",
+      "internet_1": "http://boisdormoy.blogspot.com/",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3592550559941037,
+            48.88727511126265
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3592550559941037,
+        "lat": 48.88727511126265
+      },
+      "arrondissement": "Paris 18e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin partagé Tibhirine",
+      "adresse": "71 bis boulevard Voltaire",
+      "nom_gerant": "jardin partagé truillot",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "jardinpartage.truillot@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": "2021-07-27",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3756066478128095,
+            48.86111271759496
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3756066478128095,
+        "lat": 48.86111271759496
+      },
+      "arrondissement": "Paris 11e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin partagé solidaire Cavaillé Coll",
+      "adresse": "10 place Franz Liszt",
+      "nom_gerant": "Emmaüs Solidarité",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "jardinsinsertion@emmaus.asso.fr",
+      "internet_1": "https://www.emmaus-solidarite.org/",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3515113779554366,
+            48.87829453011137
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3515113779554366,
+        "lat": 48.87829453011137
+      },
+      "arrondissement": "Paris 10e Arrondissement"
+    },
+    {
+      "nom_ev": "Colmar Thionville",
+      "adresse": "1bis rue de Thionville",
+      "nom_gerant": "Atoll 75",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "atoll75@orange.fr",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.380422341557614,
+            48.887723292646704
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.380422341557614,
+        "lat": 48.887723292646704
+      },
+      "arrondissement": "Paris 19e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin Hérold",
+      "adresse": "Jardin Hérold, 13 rue Francis Ponge",
+      "nom_gerant": "* Association Jardin solidaire : Espaces * Association de quartier : Débrouille et cie",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "espaces@association-espaces.org",
+      "internet_1": "association-espaces.org",
+      "internet_2": "http://www.debrouille.com/",
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.395081022659735,
+            48.88247359419764
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.395081022659735,
+        "lat": 48.88247359419764
+      },
+      "arrondissement": "Paris 19e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin Louis blanc",
+      "adresse": "6 rue Louis Blanc",
+      "nom_gerant": "La Maison du canal – Régie de quartier paris 10",
+      "domaine": "Hors Ville de Paris",
+      "proprietaire_terrain": "Paris Habitat",
+      "mail_1": "accueil@lamaisonducanal.fr",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.369254909228453,
+            48.87895886105989
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.369254909228453,
+        "lat": 48.87895886105989
+      },
+      "arrondissement": "Paris 10e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin des Habitants",
+      "adresse": "179 rue de Charonne",
+      "nom_gerant": "Association des habitants du 179 rue de Charonne",
+      "domaine": "Hors Ville de Paris",
+      "proprietaire_terrain": "80% Emmaus Habitat, société de parking, école privée ESGF (non considérée comme bailleur social)",
+      "mail_1": "associationhabitants179@gmail.com",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.392423039763459,
+            48.85605873226233
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.392423039763459,
+        "lat": 48.85605873226233
+      },
+      "arrondissement": "Paris 11e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin de la résidence des Récollets",
+      "adresse": "148 rue du Faubourg St Martin",
+      "nom_gerant": "Jardin et PLU's",
+      "domaine": "Hors Ville de Paris",
+      "proprietaire_terrain": "RIVP",
+      "mail_1": "jardinsetplus10@googlegroups.com",
+      "internet_1": "http://jardinsetplus.tumblr.com",
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3600203357805833,
+            48.875416611034055
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3600203357805833,
+        "lat": 48.875416611034055
+      },
+      "arrondissement": "Paris 10e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardingue de Belleville",
+      "adresse": "17 rue des envierges",
+      "nom_gerant": "Archipelia",
+      "domaine": "Hors Ville de Paris",
+      "proprietaire_terrain": "Paris Habitat",
+      "mail_1": "info@archipelia.org",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.387021891412031,
+            48.872122859479944
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.387021891412031,
+        "lat": 48.872122859479944
+      },
+      "arrondissement": "Paris 20e Arrondissement"
+    },
+    {
+      "nom_ev": "Juliette Dodu",
+      "adresse": "1 rue de Sambre-Et-Meuse",
+      "nom_gerant": "école maternelle Vicq d'Azir",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": null,
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3692916562197768,
+            48.875439132450204
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3692916562197768,
+        "lat": 48.875439132450204
+      },
+      "arrondissement": "Paris 10e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin suspendu",
+      "adresse": "126 rue de Bagnolet",
+      "nom_gerant": "multi’colors",
+      "domaine": "Hors Ville de Paris",
+      "proprietaire_terrain": "Paris Habitat",
+      "mail_1": "mail@multicolors.org",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.4047934420827937,
+            48.86059123726569
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.4047934420827937,
+        "lat": 48.86059123726569
+      },
+      "arrondissement": "Paris 20e Arrondissement"
+    },
+    {
+      "nom_ev": "Jardin du Square Pierné",
+      "adresse": "SQUARE GABRIEL PIERNE",
+      "nom_gerant": "APEE",
+      "domaine": "Ville de Paris",
+      "proprietaire_terrain": "DEVE",
+      "mail_1": "apee-saint-benoit@hotmail.fr",
+      "internet_1": null,
+      "internet_2": null,
+      "date_fermeture": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3367527076986203,
+            48.85701733561443
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3367527076986203,
+        "lat": 48.85701733561443
+      },
+      "arrondissement": "Paris 6e Arrondissement"
+    }
+  ]
+}
