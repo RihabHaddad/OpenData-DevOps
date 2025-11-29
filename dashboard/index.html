@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jardins Partagés Paris - Analyse</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+
+        h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .subtitle {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .stat-card {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .stat-value {
+            font-size: 3.5em;
+            font-weight: bold;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 10px;
+        }
+
+        .stat-label {
+            color: #666;
+            font-size: 1.1em;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 30px;
+            margin-bottom: 30px;
+        }
+
+        .chart-container {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+
+        .chart-container.full-width {
+            grid-column: 1 / -1;
+        }
+
+        .chart-title {
+            font-size: 1.5em;
+            margin-bottom: 20px;
+            color: #333;
+            text-align: center;
+        }
+
+        .table-container {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            overflow-x: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 15px;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+
+        th {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        tr:hover {
+            background: #f5f5f5;
+        }
+
+        .loading {
+            text-align: center;
+            color: white;
+            font-size: 1.5em;
+            padding: 50px;
+        }
+
+        .error {
+            background: #ff6b6b;
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+            text-align: center;
+        }
+
+        footer {
+            text-align: center;
+            color: white;
+            margin-top: 40px;
+            padding: 20px;
+            opacity: 0.8;
+        }
+
+        .highlight {
+            background: #ffd93d;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2em;
+            }
+            
+            .charts-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🌱 Jardins Partagés Paris</h1>
+            <p class="subtitle">Analyse de la distribution des jardins partagés à Paris</p>
+        </header>
+
+        <div id="loading" class="loading">
+            Chargement des données...
+        </div>
+
+        <div id="error" class="error" style="display: none;"></div>
+
+        <div id="content" style="display: none;">
+            <!-- Stats Cards -->
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-value" id="totalGardens">-</div>
+                    <div class="stat-label">Jardins Total</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="totalArrondissements">-</div>
+                    <div class="stat-label">Arrondissements</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="avgPerArr">-</div>
+                    <div class="stat-label">Moyenne / Arr.</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="topArr">-</div>
+                    <div class="stat-label">Top Arrondissement</div>
+                </div>
+            </div>
+
+            <!-- Charts -->
+            <div class="charts-grid">
+                <div class="chart-container full-width">
+                    <h2 class="chart-title">📊 Distribution par Arrondissement</h2>
+                    <canvas id="distributionChart"></canvas>
+                </div>
+
+                <div class="chart-container">
+                    <h2 class="chart-title">🥧 Top 5 Arrondissements</h2>
+                    <canvas id="pieChart"></canvas>
+                </div>
+
+                <div class="chart-container">
+                    <h2 class="chart-title">📈 Répartition Est vs Ouest</h2>
+                    <canvas id="regionChart"></canvas>
+                </div>
+            </div>
+
+            <!-- Data Table -->
+            <div class="table-container">
+                <h2 class="chart-title">📋 Détails par Arrondissement</h2>
+                <table id="dataTable">
+                    <thead>
+                        <tr>
+                            <th>Rang</th>
+                            <th>Arrondissement</th>
+                            <th>Nombre de Jardins</th>
+                            <th>Pourcentage</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody"></tbody>
+                </table>
+            </div>
+        </div>
+
+        <footer>
+            <p>🌍 Données: OpenData Paris | 🛠️ Projet ETL DevOps | 📅 2025</p>
+        </footer>
+    </div>
+
+    <script>
+        // Configuration
+        const API_URL = '/results/analysis.json';
+
+        // Fetch and display data
+        async function loadData() {
+            try {
+                const response = await fetch(API_URL);
+                if (!response.ok) {
+                    throw new Error('Impossible de charger les données. Assurez-vous que l\'ETL a été exécuté.');
+                }
+                
+                const data = await response.json();
+                
+                // Hide loading, show content
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('content').style.display = 'block';
+                
+                // Display stats
+                displayStats(data);
+                
+                // Create charts
+                createDistributionChart(data.distribution);
+                createPieChart(data.distribution);
+                createRegionChart(data.distribution);
+                
+                // Fill table
+                fillTable(data.distribution);
+                
+            } catch (error) {
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('error').style.display = 'block';
+                document.getElementById('error').textContent = '❌ Erreur: ' + error.message;
+                console.error('Error:', error);
+            }
+        }
+
+        function displayStats(data) {
+            const total = data.total_gardens;
+            const arrCount = data.distribution.length;
+            const avg = (total / arrCount).toFixed(1);
+            const top = data.distribution[0].arrondissement.replace('Paris ', '').replace(' Arrondissement', '');
+            
+            document.getElementById('totalGardens').textContent = total;
+            document.getElementById('totalArrondissements').textContent = arrCount + '/20';
+            document.getElementById('avgPerArr').textContent = avg;
+            document.getElementById('topArr').textContent = top;
+        }
+
+        function createDistributionChart(distribution) {
+            const ctx = document.getElementById('distributionChart').getContext('2d');
+            
+            const labels = distribution.map(d => 
+                d.arrondissement.replace('Paris ', '').replace(' Arrondissement', '')
+            );
+            const values = distribution.map(d => d.count);
+            
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Nombre de jardins',
+                        data: values,
+                        backgroundColor: 'rgba(102, 126, 234, 0.8)',
+                        borderColor: 'rgba(102, 126, 234, 1)',
+                        borderWidth: 2
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: {
+                            display: false
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            ticks: {
+                                stepSize: 5
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        function createPieChart(distribution) {
+            const ctx = document.getElementById('pieChart').getContext('2d');
+            
+            const top5 = distribution.slice(0, 5);
+            const labels = top5.map(d => 
+                d.arrondissement.replace('Paris ', '').replace(' Arrondissement', '')
+            );
+            const values = top5.map(d => d.count);
+            
+            new Chart(ctx, {
+                type: 'doughnut',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        data: values,
+                        backgroundColor: [
+                            'rgba(102, 126, 234, 0.8)',
+                            'rgba(118, 75, 162, 0.8)',
+                            'rgba(255, 99, 132, 0.8)',
+                            'rgba(255, 206, 86, 0.8)',
+                            'rgba(75, 192, 192, 0.8)'
+                        ]
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: {
+                            position: 'bottom'
+                        }
+                    }
+                }
+            });
+        }
+
+        function createRegionChart(distribution) {
+            const ctx = document.getElementById('regionChart').getContext('2d');
+            
+            // East: 10e-20e, West: 1e-9e
+            const east = distribution.filter(d => {
+                const num = parseInt(d.arrondissement.match(/\d+/)[0]);
+                return num >= 10 && num <= 20;
+            }).reduce((sum, d) => sum + d.count, 0);
+            
+            const west = distribution.filter(d => {
+                const num = parseInt(d.arrondissement.match(/\d+/)[0]);
+                return num >= 1 && num <= 9;
+            }).reduce((sum, d) => sum + d.count, 0);
+            
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: ['Paris Est (10e-20e)', 'Paris Ouest (1e-9e)'],
+                    datasets: [{
+                        label: 'Nombre de jardins',
+                        data: [east, west],
+                        backgroundColor: [
+                            'rgba(102, 126, 234, 0.8)',
+                            'rgba(255, 99, 132, 0.8)'
+                        ]
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: {
+                            display: false
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        }
+
+        function fillTable(distribution) {
+            const tbody = document.getElementById('tableBody');
+            const total = distribution.reduce((sum, d) => sum + d.count, 0);
+            
+            distribution.forEach((d, index) => {
+                const row = tbody.insertRow();
+                const percentage = ((d.count / total) * 100).toFixed(1);
+                
+                row.innerHTML = `
+                    <td><strong>${index + 1}</strong></td>
+                    <td>${d.arrondissement}</td>
+                    <td><strong>${d.count}</strong></td>
+                    <td><span class="highlight">${percentage}%</span></td>
+                `;
+            });
+        }
+
+        // Load data on page load
+        loadData();
+    </script>
+</body>
+</html>
